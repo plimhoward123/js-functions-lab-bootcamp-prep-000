@@ -6,4 +6,4 @@ function happyHolidaysTo(name){
     return "Happy holidays, ${name}!"
 }
 
-console.log(happyHolidaysTo)
+console.log(happyHolidaysTo("you"))
